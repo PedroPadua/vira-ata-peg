@@ -1,3 +1,4 @@
 .env
-.mp4
+*S.mp4
 *.mp3
+/tests/*
